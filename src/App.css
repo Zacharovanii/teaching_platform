@@ -1,0 +1,5 @@
+input:-webkit-autofill {
+  background-color: #f0fff4 !important; /* Светло-зеленый фон */
+  color: #2d3748 !important; /* Тёмный текст */
+  border: 1px solid #38a169 !important; /* Зелёная рамка */
+}

@@ -1,0 +1,13 @@
+{
+  "register": {
+    "title": "Create your account",
+    "name": "Your name",
+    "email": "Enter email",
+    "password": "Enter password",
+    "submit": "Create account",
+    "terms_text": "By creating an account you agree with",
+    "terms_url": "terms and conditions",
+    "already_have": "Already have an account?",
+    "login": "Login"
+  }
+}
